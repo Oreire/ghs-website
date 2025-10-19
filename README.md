@@ -42,7 +42,3 @@ Then open your browser and visit:
 **http://localhost**
 
 You should see the static site served from your `APP/` directory.
-
----
-
-Would you like this scaffolded into a CPD-ready simulation report or mapped to DevSecOps deployment workflows? I can also help validate your `APP/` structure for production readiness.
